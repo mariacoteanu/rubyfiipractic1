@@ -17,6 +17,7 @@
     background-color: rgb(195, 145, 218);
     font-family: Verdana, Helvetica, Arial;
     font-size: 14px;
+
   }
   #container {
     width: 100%;
@@ -25,3 +26,4 @@
     padding: 10px;
     text-align: center;
   }
+ 

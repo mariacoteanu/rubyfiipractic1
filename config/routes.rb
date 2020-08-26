@@ -2,6 +2,8 @@ Rails.application.routes.draw do
   resources :categories
   resources :games
   get 'home/index'
+  get 'categories/index'
+  get 'games/index'
   devise_for :users
   resources :items
 
